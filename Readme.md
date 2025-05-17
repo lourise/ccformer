@@ -1,6 +1,6 @@
 # [TCSVT] Concept-Level Semantic Transfer and Context-Level Distribution Modeling for Few-Shot Segmentation
 
-The implementation of the paper [Concept-Level Semantic Transfer and Context-Level Distribution Modeling for Few-Shot Segmentation(http:)]
+The implementation of the paper [Concept-Level Semantic Transfer and Context-Level Distribution Modeling for Few-Shot Segmentation(https://ieeexplore.ieee.org/abstract/document/10937737)]
 
 _Abstract_:
 Few-shot segmentation (FSS) methods aim to segment objects using only a few pixel-level annotated samples. 
