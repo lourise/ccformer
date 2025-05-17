@@ -85,7 +85,16 @@ The performance of CCFormer on COCO-20i dataset.
 
 ## Citation
 ```
-
+@ARTICLE{luo2025concept,
+  author={Luo, Yuxuan and Chen, Jinpeng and Cong, Runmin and Ip, Horace Ho Shing and Kwong, Sam},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Concept-Level Semantic Transfer and Context-Level Distribution Modeling for Few-Shot Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  keywords={Semantics;Context modeling;Accuracy;Training;Semantic segmentation;Transformers;Location awareness;Visualization;Transformer cores;Measurement;Semantic Segmentation;Few-shot Learning;Few-shot Segmentation},
+  doi={10.1109/TCSVT.2025.3554013}}
 ```
 
 ## Acknowledgement
